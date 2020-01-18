@@ -1,27 +1,23 @@
-## Welcome to KoHsin's blog
-
-
-
-
+## Welcome to KoHsin's blog 
 #### 2020/01/18
-
 
 
 ### About Me
 
-Birth: 2000/05/20
+-Birth: 2000/05/20
 
-Age: 19
+-Age: 19
 
-Hometown: Taoyuan, Taiwan
+-Hometown: Taoyuan, Taiwan
 
 ### My code
 
 ```
 Will be updated...
 ```
+---
 
-### Contact Me
+#### Contact Me
 
 email: <taes50232@gmail.com>
  
