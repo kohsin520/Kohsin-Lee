@@ -2,9 +2,11 @@
 
 ### About Me
 
-1. Birth: 2000/05/20
-2. Age: 19
-3. Hometown: Taoyuan, Taiwan
+Birth: 2000/05/20
+
+Age: 19
+
+Hometown: Taoyuan, Taiwan
 
 ### My code
 
