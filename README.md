@@ -2,22 +2,11 @@
 
 ### About Me
 
-Birth:2000/05/20
-Age:19
-Hometown: Taoyuan, Taiwan
+```My Self introduction
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Birth:2000/05/20
+2. Age:19
+3. Hometown: Taoyuan, Taiwan
 
 **Bold** and _Italic_ and `Code` text
 
@@ -26,10 +15,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### My code
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kohsin520/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Will be updated...
 
-### Support or Contact
+### Contact Me
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+email: \taes50232@gmail.com
