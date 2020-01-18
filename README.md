@@ -4,11 +4,11 @@
 
 ### About Me
 
--Birth: 2000/05/20
+*Birth: 2000/05/20
 
--Age: 19
+*Age: 19
 
--Hometown: Taoyuan, Taiwan
+*Hometown: Taoyuan, Taiwan
 
 ### My code
 
